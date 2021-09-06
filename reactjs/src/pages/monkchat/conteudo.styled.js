@@ -119,7 +119,6 @@ const ContainerConteudo = styled.div`
         margin: 0em .2em;
     }
 
-
     @media (max-width: 400px) {
         flex-direction: column;
         padding: .2em;
